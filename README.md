@@ -3,7 +3,7 @@
 
 ## Luke Wilding
 
-*Complete the lines below, and then delete this line.*
+
 
 ### Data Science
 ### Tony Jenkins
