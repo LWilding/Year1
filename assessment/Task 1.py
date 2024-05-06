@@ -4,6 +4,7 @@ if __name__ == '__main__':
     pass
 
 print(f"Beckett Pizza Plaza 4-for-3 Offer")
+print('=================================')
 
 prices = []
 for i in range(4):
