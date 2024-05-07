@@ -3,9 +3,9 @@
 
 ## Marking and Feedback
 
-### DELETE THIS TEXT AND REPLACE WITH YOUR NAME
+### Luke Wilding
 
-### DELETE THIS TEXT AND REPLACE WITH YOUR UNIVERSITY EMAIL
+### lukewilding2539@student.leedsbeckett.ac.uk
 
 ### DELETE THIS TEXT AND REPLACE WITH YOUR GROUP
 
@@ -21,7 +21,8 @@ Your marker will leave a mark and feedback in this file.*
 *Describe here the work that is in the ``practicals`` folder. Pay special attention
 to any work you have included that is not taken from the sheets on MyBeckett. Write no more than 100 words.*
 
-## 1. Task 1: Pizza Prices
+## 1. Task 1: It starts with a loop that checks if 4 inputs are inputted correctly, if so it turns them into a list.
+## Then using min and sum it identifies the cheapest pizza and the total from the list, which then is used to display the total and percentage of discount.
 
 *Explain here how your "Pizza" program works. Is it complete? Do you know of some bugs or errors? Be honest!
 Write no more than 100 words.*

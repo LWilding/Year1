@@ -1,3 +1,1 @@
-
-
-from math import sqrt
+#!/usr/bin/env python3

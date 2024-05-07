@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 
 password = input('Please enter a password: ')
 repeat = input('Repeat password: ')
