@@ -13,7 +13,7 @@ if __name__ == '__main__':
     if len(sys.argv) > 1:
         args = sys.argv[1:]
         temps = [int(x) for x in args]
-        print(temps)
+
 
         max = max(temps)
         min = min(temps)
