@@ -67,3 +67,9 @@ except FileNotFoundError:
 except ValueError:
     print("Invalid File")
 
+print(town_speeds)
+
+print(highest_ws_location)
+print(location_list)
+print(highest_ws)
+print(worst_storm_speed)

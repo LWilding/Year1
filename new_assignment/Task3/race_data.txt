@@ -1,0 +1,14 @@
+HAM,Mercedes,116.126
+HAM,Mercedes,115.778
+HAM,Mercedes,116.123
+HAM,Mercedes,117.001
+HAM,Mercedes,116.140
+BOT,Mercedes,117.888
+BOT,Mercedes,118.124
+BOT,Mercedes,117.981
+BOT,Mercedes,118.902
+BOT,Mercedes,118.014
+VER,Red Bull,114.678
+VER,Red Bull,115.019
+VER,Red Bull,115.566
+VER,Red Bull,114.897
